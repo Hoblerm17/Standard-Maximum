@@ -1,0 +1,10 @@
+obj\Debug\StandardMaximumShell.exe
+obj\Debug\StandardMaximumShell.xml
+obj\Debug\StandardMaximumShell.pdb
+bin\Debug\StandardMaximumShell.exe
+bin\Debug\StandardMaximumShell.pdb
+bin\Debug\StandardMaximumShell.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StandardMaximumShell.Resources.resources
+obj\Debug\StandardMaximumShell.StandardMaximumDialog.resources
+obj\Debug\StandardMaximumShell.vbproj.GenerateResource.Cache
